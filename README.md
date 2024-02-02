@@ -1,2 +1,2 @@
 # cafemenu
-This project is a trial Cafe Menu Project
+This project demonstrates a simple Cafe Menu.
